@@ -44,3 +44,4 @@ trabalhos :
           build_dir : dist
         ambiente :
           GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
+ 
