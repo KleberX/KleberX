@@ -1,4 +1,4 @@
-### Hi there 👋Eu sou o Kleber Junior
+### Hi there 👋I'm Kleber Junior
 
 
 - 🔭 I’m currently working on Testes Manuais
